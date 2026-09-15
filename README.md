@@ -17,3 +17,9 @@ Para definir, visualizar e validar o propósito do produto, foi elaborado um Pro
 ## Requisitos do Sistema
 
 Confira a lista completa de requisitos funcionais na [Documentação de Requisitos](docs/REQUISITOS.md).
+
+## Protótipo da Interface (UI/UX)
+
+O protótipo da Landing Page foi desenvolvido no Figma focado na definição do Design System do projeto.
+
+![Preview da Landing Page](docs/landing-page.png)
